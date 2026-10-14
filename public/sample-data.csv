@@ -1,0 +1,7 @@
+id,subject,category,priority,status,ageHours
+INC-101,VPN login fails after password change,Access,P1,Open,5
+INC-102,ERP purchase screen will not load,ERP,P2,In progress,6
+INC-103,Workstation overheating during CAD use,Hardware,P2,Open,10
+INC-104,Printer unavailable on shared network,Network,P3,Resolved,8
+INC-105,New employee software installation,Software,P4,Open,12
+INC-106,Intermittent Wi-Fi disconnects,Network,P3,In progress,25

@@ -1,0 +1,22 @@
+{
+  "name": "supportdesk-it-support",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Create and triage support tickets, track SLA risk by priority, resolve incidents, and export a queue report. Built with synthetic incidents and browser-local storage.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "next dev -p 3011",
+    "build": "next build",
+    "start": "node scripts/serve.mjs 3011",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "next": "15.5.12",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "styled-components": "6.3.11"
+  }
+}
